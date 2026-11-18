@@ -1,4 +1,4 @@
-# Status Check-in (11:00 AM)
+# Status Check-in (3:00 AM)
 
 ## Done
 - Repository setup, README, and personal constants block
@@ -7,4 +7,4 @@
 - Part A & Part B trace questions and Dart functions (B2, B3, C5, D2)
 
 ## Stuck on
-- None so far
+- I have many problems righd now
